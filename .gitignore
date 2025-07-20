@@ -1,0 +1,21 @@
+# Python junk files
+__pycache__/
+*.py[cod]
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# VS Code folder
+.vscode/
+
+# Python virtual environment (optional)
+venv/
+
+# Environment config files
+.env
+*.env
+
+
+# macOS files (if ever used on Mac)
+.DS_Store
