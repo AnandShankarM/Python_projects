@@ -7,6 +7,6 @@ P.S: I am learning python for first time.
 2) Tipcalculator - A simple bill calculator project.
 3) Treasure Island - Way to casket of treasure.
 4) Rock paper scissors - Childhood OG Game.
-5) Treasure Island 
-6) Hangman - Childhood game - Save the person
+5) Hangman - Childhood game - Save the person
+6) Password Generator 
 7) Caesar_cipher - To encode or decode a message

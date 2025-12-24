@@ -1,4 +1,4 @@
-# Project - 6
+# MiniProject - 5
 import random
 import hangman_words
 import hangman_art

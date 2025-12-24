@@ -1,4 +1,4 @@
-# Caesar program
+# Mini project - 7 Caesar program
 
 import art
 print(art.logo)

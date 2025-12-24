@@ -1,4 +1,4 @@
-#Project-4
+#MiniProject-4
 
 import random
 rock = '''

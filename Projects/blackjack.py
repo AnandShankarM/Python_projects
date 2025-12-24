@@ -1,3 +1,5 @@
+#Mini project 9
+
 import random
 
 # ---------- DEAL CARD ----------
